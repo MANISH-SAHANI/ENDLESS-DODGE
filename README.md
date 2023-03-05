@@ -6,7 +6,7 @@ It is an endless game, in which the Cat can be moved left or right by holding up
 
 ## Some Remarks About This Project/Repository
 
-I'm going to update this game eventually, add some features, some new content, and fix the messy code. And of course, I will keep it open-source and free for commercial use
+I'm going to update this game eventually, add some features, some new content, and fix the messy code. And of course, I will keep it open-source and free for commercial use.
 
 ## About The Game
 
