@@ -14,5 +14,7 @@ The Game is free to download, all you need to do is download and install the apk
 
 ## Here's a Demo
 
-https://user-images.githubusercontent.com/91081774/222970683-66d5ea71-e58f-4132-977c-9e1c4ba25dcd.mp4
+
+https://user-images.githubusercontent.com/91081774/222971345-9d86a42d-aae1-479a-9f98-ea1c8eb16447.mp4
+
 
