@@ -1,7 +1,7 @@
 
 <h1 align="center" >ENDLESS DODGE GAME 🕹️🐈</h1>
 
-<h1 align="center"><img src="https://github.com/MANISH-SAHANI/ENDLESS-DODGE/assets/91081774/fe712112-f25f-47b0-b559-08ccd5bfd763" alt="Logo" width="750" /></h1>
+<h1 align="center"><img src="https://github.com/MANISH-SAHANI/ENDLESS-DODGE/assets/91081774/95954af8-c085-4e0c-b6e1-92dd025cfa97" alt="Logo" width="750" /></h1>
 
 It was my first 2D game made in Unity. The game uses a physics engine to simulate the movement of the cat and the obstacles, which creates a realistic and dynamic environment. This helps to create an engaging game experience and makes it more challenging as the obstacles become more difficult to dodge as they are spawned randomly.
 It is an endless game, in which the Cat can be moved left or right by holding up on the right or left side of the screen. This makes the game more engaging and more challenging as the obstacles become harder to dodge and the player must use quick reflexes and to make the high-score!!
